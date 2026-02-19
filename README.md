@@ -14,5 +14,6 @@ I am a Technical Writer specializing in clear and simple documentation.
 - Dashboard Overview
 - Login Troubleshooting Guide
 - Installation Guide
+- API Overview
 
 More samples coming soon.
