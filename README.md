@@ -1,3 +1,4 @@
+[Berat Ozgul CV](./Berat_Technical_Writer_CV.pdf)
 # Technical Writing Portfolio – Berat
 
 Hello, my name is Berat. I am a Technical Writer with a background in English Language and Literature. I specialize in creating clear, structured, and user-friendly technical documentation.
