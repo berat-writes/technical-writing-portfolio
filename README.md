@@ -11,7 +11,6 @@ I am a Technical Writer specializing in clear and simple documentation.
 - User Guide
 - Feature Documentation
 - Troubleshooting Guide
-
-More samples coming soon.
 - Dashboard Overview
 - Login Troubleshooting Guide
+More samples coming soon.
