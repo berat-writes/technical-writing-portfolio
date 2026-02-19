@@ -14,3 +14,4 @@ I am a Technical Writer specializing in clear and simple documentation.
 
 More samples coming soon.
 - Dashboard Overview
+- Login Troubleshooting Guide
